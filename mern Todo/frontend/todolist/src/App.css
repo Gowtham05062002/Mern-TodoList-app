@@ -1,0 +1,29 @@
+body {
+  background-color: #e0f7fa; /* Light blue background color */
+  color: #333; /* Dark font color */
+  font-family: Arial, sans-serif; /* Font family */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #00796b; /* Dark teal color for the heading */
+  text-align: center;
+}
+
+.task-form, .task-list {
+  background-color: #ffffff; /* White background for forms and lists */
+  border: 1px solid #ccc; /* Light gray border */
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
